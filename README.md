@@ -7,4 +7,4 @@ Right arrow key (>) : move to the right. <br>
 Up arrow key (^) : to jump. <br>
 Space bar (space bar) : to shoot enemy.
 
-### Game Objective
+### Game Objective 
