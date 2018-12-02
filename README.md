@@ -10,3 +10,14 @@ Space bar (space bar) : to shoot enemy.
 ### Game Objective 
 More information coming soon.
 
+### Directory Tree
+.
+├── Game
+|    └── main.py
+├── Player
+|    └── 
+├── Character
+|    └──
+|   
+| 
+└── README.md
