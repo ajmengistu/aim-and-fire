@@ -11,6 +11,7 @@ Space bar (space bar) : to shoot enemy.
 More information coming soon.
 
 ### Directory Tree
+```
 .
 ├── Game
 |    └── main.py
@@ -21,3 +22,4 @@ More information coming soon.
 |   
 | 
 └── README.md
+```
