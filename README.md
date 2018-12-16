@@ -16,7 +16,7 @@ More information coming soon.
 .
 ├── Game
 |    └── main.py
-├── Player
+├── Player 
 |    └── 
 ├── Character
 |    └──
