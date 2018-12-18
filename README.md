@@ -1,6 +1,6 @@
 # aim-and-fire 2D game 
 
-### (Thank you for stopping by! This game is currently underdevelopment. Come back soon!)
+### (Thank you for stopping by ! This game is currently underdevelopment. Come back soon!)
 A simple single player game implemented using a Free and Open Source python programming language library, <b>pygame</b>.
 
 # Use
