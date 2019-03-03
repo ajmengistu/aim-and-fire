@@ -25,9 +25,9 @@ More information coming soon.
 ├── Game
 |    └── main.py
 ├── Player 
-|    └── 
+|    └── player.py
 ├── Character
-|    └──
+|    └── character.py
 |   
 | 
 └── README.md
