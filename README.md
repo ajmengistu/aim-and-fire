@@ -4,6 +4,11 @@
 A simple single player game implemented using a Free and Open Source python programming language library, <b>pygame</b>.
 
 # Use
+### Download 
+```
+https://www.python.org/downloads/
+https://www.pygame.org/download.shtml
+```
 ### Player moves 
 Left arrow key (<) : move to the left. <br>
 Right arrow key (>) : move to the right. <br>
